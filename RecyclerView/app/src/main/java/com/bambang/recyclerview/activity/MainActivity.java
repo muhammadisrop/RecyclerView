@@ -23,7 +23,7 @@ import retrofit2.Callback;
 public class MainActivity extends AppCompatActivity {
     private RecyclerMoviesAdapter adapter;
     private SearchView searchView;
-    String API_KEY = "0c4c5c719fe1d787bca9e9f7f23c6bd3";
+    String API_KEY = "03401bb24472c2f0f3f204b9fdcda50e";
     String LANGUAGE = "en-US";
     String CATEGORY = "popular";
     int PAGE = 1;
